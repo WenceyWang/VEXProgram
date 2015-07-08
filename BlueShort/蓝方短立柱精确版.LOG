@@ -1,5 +1,0 @@
-E:\Program Files (x86)\Intelitek\easyC V5\Cortex\Tools\STM32F103VD\Link\STM32x_io_putchar_thumb.a(STM32F10X_io_putchar.o): In function `__io_putchar':
-STM32F10X_io_putchar.c:(.text.__io_putchar+0x0): multiple definition of `__io_putchar'
-E:\Program Files (x86)\Intelitek\easyC V5\Cortex\Tools\STM32F103VD\easyCRuntime\easyCRuntimeLib.lib(Comm.o):Comm.c:(.text.__io_putchar+0x0): first defined here
-collect2: ld returned 1 exit status
-
