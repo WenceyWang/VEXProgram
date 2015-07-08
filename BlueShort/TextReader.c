@@ -11,7 +11,7 @@ struct Action
 
 
 struct Action Commands[] = { { 'B', 330, 330 },
-{ 'R', 290  ,290 },
+{ 'R', 290  ,291 },
 { 'W', 200  ,200 },
 { 'U', 1470, 1470 },
 { 'W', 200  ,200 },
@@ -125,6 +125,7 @@ void Auto()
 
 
 // TODO: add user code here
+
 
 
 
