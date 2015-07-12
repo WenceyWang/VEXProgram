@@ -1,2 +1,0 @@
-OperatorControl.c: In function 'OperatorControl':
-OperatorControl.c line# 24:13: warning: implicit declaration of function 'Auto'
